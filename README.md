@@ -1,4 +1,4 @@
-"Game: Ships-battle
+Game: Ships-battle
 
 Platform: Windows 
 
@@ -28,4 +28,3 @@ Configuration:
     -i ip (you have to specify ip of server if you use another computer than server is estabilished on
   
     -s player_name (prints history concerning player_name)
-"
